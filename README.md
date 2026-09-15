@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haoua Mohamed</h1>
 <h3 align="center">an AI Engineer with a Master's degree in Intelligent Systems Engineering and a strong background in MERN stack development. I am passionate about bridging the gap between advanced Machine Learning architectures and robust web applications, transforming complex data into impactful, real-world solutions</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
